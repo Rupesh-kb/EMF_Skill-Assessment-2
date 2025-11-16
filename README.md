@@ -68,7 +68,7 @@ Simplify:
 
  Step 5: Define the effective input reflection coefficient
 
- <img width="430" height="137" alt="image" src="https://github.com/user-attachments/assets/61724b83-f21d-4faa-b58e-7674ffd471a5" />
+ <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/61724b83-f21d-4faa-b58e-7674ffd471a5" />
 
 
 <h2>4. Significance</h2>
