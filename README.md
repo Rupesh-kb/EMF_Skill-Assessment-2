@@ -2,7 +2,7 @@
 <h2>Name : RUPESH K</h2>
 <h2>Reg No. : 212224060223</h2>
 <h2>1. Introduction</h2>
- <img width="380" height="180" alt="image" src="https://github.com/user-attachments/assets/15fbfecd-fc64-4cf8-b9fb-8a5c77cd7b00" />
+ <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/15fbfecd-fc64-4cf8-b9fb-8a5c77cd7b00" />
 
 At high frequencies, circuit elements like inductors, capacitors, and resistors behave differently because of parasitics and transmission line effects. Measuring voltage and current directly becomes impractical. Instead, Scattering parameters (S-parameters) are used. They describe how an RF or microwave device reflects and transmits energy when connected to transmission lines. However, these parameters assume that all ports are perfectly matched to the system impedance (usually 50 Ω). In real-world systems, this condition rarely holds true — devices, cables, or antennas may be mismatched. Such mismatches cause reflections, standing waves, and reduced power transfer. Understanding how a mismatched load affects S-parameters is therefore essential.
 
