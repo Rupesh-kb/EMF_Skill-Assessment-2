@@ -73,9 +73,12 @@ Simplify:
 
 <h2>4. Significance</h2>
 
-1. Real-world accuracy: In practice, perfect matching is difficult. This equation helps calculate how much mismatch affects input reflection.      
+1. Real-world accuracy: In practice, perfect matching is difficult. This equation helps calculate how much mismatch affects input reflection.
+    
 2. Power transfer and mismatch loss: Reflections reduce power delivered to the load. Mismatch Loss (ML) = -10log₁₀(1 - |ΓL|²).
+   
 3. Amplifier stability: A mismatched load can reflect energy back into an amplifier, causing oscillations.
+   
 4. Measurement corrections: In VNA measurements, mismatch effects are corrected using calibration and error models.
 
 
