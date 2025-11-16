@@ -2,7 +2,7 @@
 <h1>Name : RUPESH K</h1>
 <h1>Reg No. : 212224060223</h1>
 <h2>1. Introduction</h2>
- <img width="520" height="270" alt="image" src="https://github.com/user-attachments/assets/15fbfecd-fc64-4cf8-b9fb-8a5c77cd7b00" />
+ <img width="480" height="250" alt="image" src="https://github.com/user-attachments/assets/15fbfecd-fc64-4cf8-b9fb-8a5c77cd7b00" />
 
 At high frequencies, circuit elements like inductors, capacitors, and resistors behave differently because of parasitics and transmission line effects. Measuring voltage and current directly becomes impractical. Instead, Scattering parameters (S-parameters) are used. They describe how an RF or microwave device reflects and transmits energy when connected to transmission lines. However, these parameters assume that all ports are perfectly matched to the system impedance (usually 50 Ω). In real-world systems, this condition rarely holds true — devices, cables, or antennas may be mismatched. Such mismatches cause reflections, standing waves, and reduced power transfer. Understanding how a mismatched load affects S-parameters is therefore essential.
 
@@ -13,7 +13,7 @@ For a two-port network, the S-parameters are defined as:
       b₁ = S₁₁a₁ + S₁₂a₂
       b₂ = S₂₁a₁ + S₂₂a₂
 
- <img width="368" height="275" alt="image" src="https://github.com/user-attachments/assets/3d8344cc-70a2-4d73-9263-6af9587264ee" />
+ <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/3d8344cc-70a2-4d73-9263-6af9587264ee" />
 
 where:
 
@@ -48,7 +48,7 @@ Step 1: Basic equations
 
 Step 2: Reflected wave at port 2
 
-<img width="239" height="65" alt="image" src="https://github.com/user-attachments/assets/941e9a1d-66a4-4c65-b2d7-4390ed99dc9b" />
+<img width="200" height="55" alt="image" src="https://github.com/user-attachments/assets/941e9a1d-66a4-4c65-b2d7-4390ed99dc9b" />
 
 Step 3: Substitute into b₂ equation
 
@@ -64,7 +64,7 @@ Now substitute b2​ from (4):
 
 Simplify:
 
-<img width="393" height="100" alt="image" src="https://github.com/user-attachments/assets/3ca4ec9c-6a3f-4549-9323-bd4ee0144157" />
+<img width="350" height="80" alt="image" src="https://github.com/user-attachments/assets/3ca4ec9c-6a3f-4549-9323-bd4ee0144157" />
 
  Step 5: Define the effective input reflection coefficient
 
@@ -81,7 +81,7 @@ Simplify:
 
 <h2>5. Applications</h2>
 
-   <img width="490" height="438" alt="image" src="https://github.com/user-attachments/assets/622bfe63-a889-468f-8050-67d570c6857b" />
+   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/622bfe63-a889-468f-8050-67d570c6857b" />
 
    - Antenna testing: To study how mismatch affects antenna performance.
    - Amplifier design: To ensure gain and stability under varying load conditions.
