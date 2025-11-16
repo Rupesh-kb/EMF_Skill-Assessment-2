@@ -1,8 +1,8 @@
 # S-Parameters - Mismatched Load
-<h1>Name : RUPESH K</h1>
-<h1>Reg No. : 212224060223</h1>
+<h2>Name : RUPESH K</h2>
+<h2>Reg No. : 212224060223</h2>
 <h2>1. Introduction</h2>
- <img width="480" height="250" alt="image" src="https://github.com/user-attachments/assets/15fbfecd-fc64-4cf8-b9fb-8a5c77cd7b00" />
+ <img width="380" height="180" alt="image" src="https://github.com/user-attachments/assets/15fbfecd-fc64-4cf8-b9fb-8a5c77cd7b00" />
 
 At high frequencies, circuit elements like inductors, capacitors, and resistors behave differently because of parasitics and transmission line effects. Measuring voltage and current directly becomes impractical. Instead, Scattering parameters (S-parameters) are used. They describe how an RF or microwave device reflects and transmits energy when connected to transmission lines. However, these parameters assume that all ports are perfectly matched to the system impedance (usually 50 Ω). In real-world systems, this condition rarely holds true — devices, cables, or antennas may be mismatched. Such mismatches cause reflections, standing waves, and reduced power transfer. Understanding how a mismatched load affects S-parameters is therefore essential.
 
@@ -35,7 +35,7 @@ When all ports except the one under test are terminated with matched loads, S-pa
 
 Assume port 2 of the two-port network is terminated with a mismatched load having reflection coefficient:
 
-<img width="592" height="395" alt="image" src="https://github.com/user-attachments/assets/3c998747-e370-4c74-b295-6af0825e00c2" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/3c998747-e370-4c74-b295-6af0825e00c2" />
 
 
 <img width="264" height="102" alt="image" src="https://github.com/user-attachments/assets/d37b6f9f-5ef6-4b64-b7bc-26f7016b0cd4" />
@@ -52,7 +52,7 @@ Step 2: Reflected wave at port 2
 
 Step 3: Substitute into b₂ equation
 
-<img width="353" height="222" alt="image" src="https://github.com/user-attachments/assets/693de167-d9f9-4e1d-9825-099a284b4d3b" />
+<img width="300" height="190" alt="image" src="https://github.com/user-attachments/assets/693de167-d9f9-4e1d-9825-099a284b4d3b" />
 
 Step 4: Substitute into b₁ equation
 
