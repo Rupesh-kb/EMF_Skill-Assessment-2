@@ -1,5 +1,6 @@
-# S-Parameters with Mismatched Load
-
+# S-Parameters - Mismatched Load
+<h1>Name : RUPESH K</h1>
+<h1>Reg No. : 212224060223</h1>
 <h2>1. Introduction</h2>
  <img width="536" height="285" alt="image" src="https://github.com/user-attachments/assets/15fbfecd-fc64-4cf8-b9fb-8a5c77cd7b00" />
 
@@ -57,7 +58,7 @@ Step 4: Substitute into b₁ equation
 
 <img width="348" height="138" alt="image" src="https://github.com/user-attachments/assets/382547a1-f908-4e02-93fd-ff03eafffb21" />
 
-Now substitute b2b_2b2​ from (4):
+Now substitute b2​ from (4):
 
 <img width="467" height="104" alt="image" src="https://github.com/user-attachments/assets/923eecbe-3454-4cd6-afc1-26097ffac8b0" />
 
