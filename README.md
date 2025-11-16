@@ -48,7 +48,7 @@ Step 1: Basic equations
 
 Step 2: Reflected wave at port 2
 
-<img width="200" height="55" alt="image" src="https://github.com/user-attachments/assets/941e9a1d-66a4-4c65-b2d7-4390ed99dc9b" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/941e9a1d-66a4-4c65-b2d7-4390ed99dc9b" />
 
 Step 3: Substitute into b₂ equation
 
@@ -60,11 +60,11 @@ Step 4: Substitute into b₁ equation
 
 Now substitute b2​ from (4):
 
-<img width="467" height="104" alt="image" src="https://github.com/user-attachments/assets/923eecbe-3454-4cd6-afc1-26097ffac8b0" />
+<img width="480" height="120" alt="image" src="https://github.com/user-attachments/assets/923eecbe-3454-4cd6-afc1-26097ffac8b0" />
 
 Simplify:
 
-<img width="350" height="80" alt="image" src="https://github.com/user-attachments/assets/3ca4ec9c-6a3f-4549-9323-bd4ee0144157" />
+<img width="380" height="100" alt="image" src="https://github.com/user-attachments/assets/3ca4ec9c-6a3f-4549-9323-bd4ee0144157" />
 
  Step 5: Define the effective input reflection coefficient
 
@@ -79,7 +79,7 @@ Simplify:
 4. Measurement corrections: In VNA measurements, mismatch effects are corrected using calibration and error models.
 
 
-<h1>  </h1>
+
 
 
 <h2>5. Applications</h2>
