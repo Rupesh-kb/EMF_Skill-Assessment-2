@@ -79,9 +79,12 @@ Simplify:
 4. Measurement corrections: In VNA measurements, mismatch effects are corrected using calibration and error models.
 
 
+<h1>  </h1>
+
+
 <h2>5. Applications</h2>
 
-   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/622bfe63-a889-468f-8050-67d570c6857b" />
+   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/622bfe63-a889-468f-8050-67d570c6857b" />
 
    - Antenna testing: To study how mismatch affects antenna performance.
    - Amplifier design: To ensure gain and stability under varying load conditions.
